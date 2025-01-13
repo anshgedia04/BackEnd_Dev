@@ -4,7 +4,7 @@ The **Domain Name System (DNS)** is a fundamental part of how the internet works
 
 ---
 
-## How DNS Works
+## How DNS Works.......
 
 ### 1. You Type a URL
 
